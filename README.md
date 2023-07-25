@@ -20,5 +20,5 @@ https://ai.honu.io/papers/musicgen/
 https://arxiv.org/abs/2306.05284
 
 ### License
-[LICENSE](LICENSE) <br />
+[LICENSE](LICENSE_audiocraft) <br />
 [LICENSE_weights](LICENSE_weights)
